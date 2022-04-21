@@ -1,1 +1,1 @@
-# Analyze-stock-performance IBM data analytic course project
+#IBM data analytic course project
