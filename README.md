@@ -1,2 +1,1 @@
-# Analyze-stock-performance
-This file will extract stock data using python.
+# Analyze-stock-performance IBM data analytic course project
